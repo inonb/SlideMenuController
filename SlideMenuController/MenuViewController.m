@@ -123,11 +123,12 @@
 
 - (CGFloat)slideWidth
 {
-    if (UIDeviceOrientationIsLandscape([[UIDevice currentDevice] orientation])) {
-        return 420;
-    } else {
-        return 260;
-    }
+    return 260;
+//    if (UIDeviceOrientationIsLandscape([[UIDevice currentDevice] orientation])) {
+//        return 420;
+//    } else {
+//        return 260;
+//    }
 }
 
 @end
