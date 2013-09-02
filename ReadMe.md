@@ -1,3 +1,7 @@
+## Old Version!
+version 2 is available at https://github.com/inonb/SlideMenuController2.
+
+
 SlideMenuController
 ===========================
 
